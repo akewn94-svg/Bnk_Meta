@@ -1,0 +1,30 @@
+<project name="mm" default="makejar" basedir=".">
+
+   <target name="compile">
+      <mkdir dir="build"/>
+      <javac destdir="build"
+             debug="on"
+             optimize="on">
+         <src path="src"/>
+      </javac>
+   </target>
+
+   <target name="makejar" >
+      <jar jarfile="MetaMiner_BNK.jar">
+         <fileset dir="bin">
+         	<include name="**/*.class"/>
+         </fileset>
+      	<fileset dir="src">
+	     	<include name="**/*.java"/>
+	     </fileset>
+       </jar>
+   	<copyfile dest="C:\MetaMiner_BNK\gtweb\WEB-INF\lib\MetaMiner_BNK.jar" src="MetaMiner_BNK.jar"/>
+   	<copyfile dest="D:\workspace\git\Bnk_Meta\BNKWorkSpace\MetaMiner_BNK.jar" src="MetaMiner_BNK.jar"/>
+   </target>
+
+   <target name="clean">
+      <delete dir="build"/>
+      <delete dir="dist"/>
+   </target>
+
+</project>
