@@ -6,5 +6,36 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/lombok-1.18.36.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/MetaMiner_ps-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/MetaMiner_util_sb-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/MetaMiner-jdk17-6.0.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/MetaMiner_BNK/gtweb/WEB-INF/classes"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/gtcommon-1.0.0.8.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-aop-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-beans-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-boot-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-boot-autoconfigure-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-boot-starter-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-boot-starter-logging-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-boot-starter-validation-3.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-context-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-context-support-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-core-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/springdoc-openapi-starter-common-2.8.13.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/springdoc-openapi-starter-webmvc-api-2.8.13.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-expression-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-jcl-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-jdbc-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-config-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-core-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-crypto-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-oauth2-client-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-oauth2-core-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-oauth2-jose-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-security-web-6.5.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-tx-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-web-6.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/git/Bnk_Meta/BNKWorkSpace/jar/spring-webmvc-6.2.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
